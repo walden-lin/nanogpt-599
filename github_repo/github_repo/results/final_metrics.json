@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-10-16T23:13:18.796746",
+  "optimizer_variant": "adafactor",
+  "block_size": 64,
+  "n_layer": 4,
+  "n_head": 4,
+  "n_embd": 128,
+  "batch_size": 12,
+  "max_iters": 2000,
+  "train_loss": 1.8115711212158203,
+  "val_loss": 1.9337959289550781
+}

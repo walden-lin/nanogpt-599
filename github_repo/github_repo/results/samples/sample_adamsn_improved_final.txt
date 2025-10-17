@@ -1,0 +1,24 @@
+Overriding: out_dir = out-shakespeare-char-adamsn-improved
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: device = cpu
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+I bot sif what lere od famer lonave d ay sigeeat,
+Sit mat shouss bly, beir f bunolour shat arse thin ad torte
+Cllend,
+
+Anones farse d he watorngare g,
+I wourstan, m bllseror to thar mar ithesed d tow
+Whell thee ard, ithoodon ure, se inoapend.
+
+Lof oust Pes thionon ired is ce I pamemissrepeve aver in
+---------------
+[sample] wrote samples to out-shakespeare-char-adamsn-improved/generated_samples.txt

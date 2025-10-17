@@ -1,0 +1,30 @@
+Overriding: out_dir = out-shakespeare-char-adafactor
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: device = cpu
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+Using GQA with n_headgroup = 2
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+I bodest away!
+Server: fambrent apropore signes are aresels sore old?
+
+
+Freshing Your for faule:
+Citilf tor than you, not neme your down way.
+
+
+LEOUCKIO:
+Herseal, my heser:
+A their thou grees oper a bay leath,
+With you so on une, suir happait the. 
+
+There, the all in deid, bother,
+missbearve our fie
+---------------
+[sample] wrote samples to out-shakespeare-char-adafactor/generated_samples.txt
